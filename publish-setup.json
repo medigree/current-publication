@@ -7,8 +7,8 @@
     "index-template":"index.template"
     },
     "layout-rules" : [{
-      "npm" : "openmrs.fhir.*",
-      "canonical" : "http://fhir.openmrs.org/{3}",
+      "npm" : "medigree.fhir.*",
+      "canonical" : "http://medigree.net/fhir/{3}",
       "destination" : "/{3}"
     }]
 }
